@@ -15,9 +15,9 @@ Groups data into bins and displays density using a heatmap.
 📁 Repository Contents
 7.social_media_interactions.csv – Dataset used for analysis
 EX 7 OVER-PLOTTING REDUCTION TECHNIQUES.R – R program
-ALPHA BENDING.png – Alpha blending output
-JITTERING TECHNIQUE.png – Jittering output
-AGGREGATION&BINNING.png – Aggregation & binning output
+ALPHA BENDING.pdf – Alpha blending output
+JITTERING TECHNIQUE.pdf – Jittering output
+AGGREGATION&BINNING.pdf – Aggregation & binning output
 
 
 🛠️ Tools & Language
